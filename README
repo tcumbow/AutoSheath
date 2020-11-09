@@ -1,0 +1,121 @@
+Sheath Weapon is a ESO addon created by Kelnoreem
+When out of combat, toggles the weapon to be sheathed. 
+
+This addon was originally created as a learning tool for my daughter who was exploring software development as a college choice.  There were many topics and languges we explored besides ESO and LUA. I recently was informed the code used to originate this addon was copied from an addon called StowIt by stjobe in 2014.  When this addon was created, acknowledging to the original author should have been made.
+
+
+==================================
+Summary of changes: 2.23
+==================================
+Update to API 100033 (Markarth)
+
+==================================
+Summary of changes: 2.22
+==================================
+Update to API 100032 (StoneThorn)
+
+==================================
+Summary of changes: 2.21
+==================================
+Update to API 100031 (Greymore)
+
+==================================
+Summary of changes: 2.20
+==================================
+Update to API 100030 (Harrowstorm)
+removed addon lib folder
+
+==================================
+Summary of changes: 2.19
+==================================
+LibMenu API bump to r30 
+
+==================================
+Summary of changes: 2.18
+==================================
+Update to API 100029 (Dragonhold)
+
+==================================
+Summary of changes: 2.17.1
+==================================
+Update to API 100028 (Scalebreaker)
+Increased timer to 2 seconds for slow PC
+
+==================================
+Summary of changes: 2.16
+==================================
+Update to API 100027 (Elsweyr)
+
+==================================
+Summary of changes: 2.15
+==================================
+Update to API version 100026 (WrathStone)
+
+==================================
+Summary of changes: 2.14
+==================================
+Update to API version 100025 (Murkmire)
+
+==================================
+Summary of changes: 2.13
+==================================
+Update to API version 100024 (Wolfhunter)
+
+==================================
+Summary of changes: 2.12
+==================================
+Update to API version 100023 (Summerset)
+and LibMenu to r26
+
+==================================
+Summary of changes: 2.11
+==================================
+Update to API version 100022 (Dragon Bones)
+and LibMenu to r25
+
+==================================
+Summary of changes: 2.10
+==================================
+Update to API version 100021 (Clockwork City)
+Updated LibMenu r24
+
+==================================
+Summary of changes: 2.9
+==================================
+Update to API version 100020 (Horns of the Reach)
+
+==================================
+Summary of changes: 2.8
+==================================
+Update to API version 100019 (Morrowind)
+
+==================================
+Summary of changes: 2.7
+==================================
+Update to API version 100018 (Homestead)
+
+==================================
+Summary of changes: 2.6
+==================================
+Update to API version 100016 (Shadows of the Hist)
+
+==================================
+Summary of changes: 2.5.1
+==================================
+Zip file content root had version number, removed.
+
+==================================
+Summary of changes: 2.5
+==================================
+Update to API version 100015 (Dark Brotherhood)
+
+==================================
+Summary of changes: 2.4
+==================================
+Update to API version 100014 (Thieves Guild)
+
+==================================
+Summary of changes: 2.3
+==================================
+Code cleanup
+
