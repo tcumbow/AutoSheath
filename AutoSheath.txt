@@ -1,0 +1,8 @@
+## Title: AutoSheath
+## Description: When out of combat, sheath weapon. 
+## APIVersion: 100032 100033
+## Author: Tom Cumbow
+## Version: 1
+## AddOnVersion: 0001
+
+AutoSheath.lua
