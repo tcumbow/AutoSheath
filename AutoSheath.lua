@@ -2,6 +2,12 @@
 
 local ADDON_NAME = "AutoSheath"
 
+local function SheathWeapon()
+	if not ArePlayerWeaponsSheathed() then
+        TogglePlayerWield()
+	end
+end
+
 local SecondsToDebounceCombatState = 10
 
 local ConsecutiveNotInCombatResults = 0
@@ -15,7 +21,7 @@ local function OnEventCombatStateChange(_, inCombat)
 	end
 
 	if ConsecutiveNotInCombatResults >= SecondsToDebounceCombatState then
-		TogglePlayerWield()
+		SheathWeapon()
 	end
 end
 
