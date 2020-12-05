@@ -6,9 +6,6 @@ local function SheathWeapon()
 	if not ArePlayerWeaponsSheathed() then
         TogglePlayerWield()
 	end
-	if PixelDataLoaded then
-		PD_CombatCalm()
-	end
 end
 
 local SecondsToDebounceCombatState = 10
