@@ -42,7 +42,7 @@ local function OnEventCombatStateChange(_, inCombat)
 
 	if ConsecutiveNotInCombatResults >= SecondsToDebounceCombatState then
 		SheathWeapon()
-		DismissTwilight()
+		-- DismissTwilight()
 	end
 end
 
